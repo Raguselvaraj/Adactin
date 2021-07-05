@@ -25,7 +25,7 @@ public class JavaPro {
 		System.out.println("The reversed number is::::"+j);
 		if (nt==j) {
 			System.out.println("Its a palindrome");
-			
+			System.out.println("Hurry we done it");
 			
 		} else {
 
